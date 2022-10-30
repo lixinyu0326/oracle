@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\OracleText\OracleText\bin\Debug\OracleText.exe.config
+C:\Users\Owner\source\repos\OracleText\OracleText\bin\Debug\OracleText.exe
+C:\Users\Owner\source\repos\OracleText\OracleText\bin\Debug\OracleText.pdb
+C:\Users\Owner\source\repos\OracleText\OracleText\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Owner\source\repos\OracleText\OracleText\obj\Debug\OracleText.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\OracleText\OracleText\obj\Debug\OracleText.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\OracleText\OracleText\obj\Debug\OracleText.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\OracleText\OracleText\obj\Debug\OracleText.csproj.CopyComplete
+C:\Users\Owner\source\repos\OracleText\OracleText\obj\Debug\OracleText.exe
+C:\Users\Owner\source\repos\OracleText\OracleText\obj\Debug\OracleText.pdb
