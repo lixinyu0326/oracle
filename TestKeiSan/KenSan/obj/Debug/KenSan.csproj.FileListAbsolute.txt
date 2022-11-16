@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\TestKeiSan\KenSan\bin\Debug\KenSan.dll
+C:\Users\Owner\source\repos\TestKeiSan\KenSan\bin\Debug\KenSan.pdb
+C:\Users\Owner\source\repos\TestKeiSan\KenSan\obj\Debug\KenSan.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\TestKeiSan\KenSan\obj\Debug\KenSan.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TestKeiSan\KenSan\obj\Debug\KenSan.dll
+C:\Users\Owner\source\repos\TestKeiSan\KenSan\obj\Debug\KenSan.pdb
